@@ -117,8 +117,3 @@ internet_speed_twitter_bot/
 Pull requests and improvements are welcome!
 Feel free to open issues for suggestions or bug reports.
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
